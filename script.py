@@ -90,7 +90,7 @@ def perguntar_indice_valido(max_indice: int) -> int:
 # ---------------------------
 
 def main():
-    caminho = 'C:\\Users\\labsfiap\\Desktop\\NoéEnchentes\\Alagamentos em São Paulo 2007 a 2016.xlsx'
+    caminho = 'Alagamentos em São Paulo 2007 a 2016.xlsx'
     planilha = 'Plan1'
 
     df = carregar_dados(caminho, planilha)
