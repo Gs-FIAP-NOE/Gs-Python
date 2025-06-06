@@ -42,8 +42,7 @@ o script identifica os locais mais afetados e gera gráficos das ocorrências ao
 pip install pandas matplotlib openpyxl
 ```
 ## 📎 links
-[video](link aki)<br>
-[repositório GitHub](link aki)
+[video](https://youtu.be/ir0hZrKUHP8)<br>
 
 ## 👥 Equipe
 
